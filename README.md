@@ -1,4 +1,4 @@
-# The Gaming Space
+# The Game Space
 
 This is a JavaScript based gaming engine that is designed to give the average consumer the ability to create games in the browser without having to have any prior knowledge of programming.
 
